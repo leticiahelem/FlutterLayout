@@ -14,4 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Result:
 ![Captura de tela 2023-08-24 193836](https://github.com/leticiahelem/FlutterLayout/assets/81711212/c2aa59d7-1422-444e-99bc-6750b1ca6c6c)
